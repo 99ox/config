@@ -1,0 +1,27 @@
+{
+    "discord_accounts": [
+        {
+            "token": "MTE3NzAxMjU0MjU1MjQxNjI4OQ.GHNjbO.lW7PfivJswf5aN8AJPu2RFCcZeIuySOW6ORRzQ",
+            "self_mute": true,
+            "self_deaf": false
+        },
+        {
+            "token": "",
+            "self_mute": true,
+            "self_deaf": true
+        },
+        {
+            "token": "",
+            "self_mute": false,
+            "self_deaf": false
+        },
+        {
+            "token": "",
+            "self_mute": true,
+            "self_deaf": false
+        }
+    ],
+    "status": "dnd",
+    "guild_id": "1120620556476227656",
+    "channel_id": "1178435955997282377"
+}
